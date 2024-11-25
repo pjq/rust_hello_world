@@ -2,6 +2,10 @@
 
 A classic Tetris game implementation using Rust programming language and the GGEZ game engine.
 
+## Screenshots
+
+![Game play screenshot](screenshots/game_play.png)
+
 ## Features
 
 - 7 classic Tetris shapes
